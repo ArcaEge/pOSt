@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "OSDev",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "~/.local/share/cross/bin/i686-elf-gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "gcc-x86",
+            "compilerArgs": [
+                "-ffreestanding",
+                "-O2",
+                "-nostdlib"
+            ]
+        }
+    ],
+    "version": 4
+}

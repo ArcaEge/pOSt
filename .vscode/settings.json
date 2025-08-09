@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.linux": {
+        "GTK_PATH": null,
+        "GIO_MODULE_DIR": null,
+        "PATH": "${env:HOME}/.local/share/cross/bin:${env:PATH}",
+    }
+}
