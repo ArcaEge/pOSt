@@ -1,3 +1,13 @@
 # pOSt (pointless Operating System title)
 
-A pretty useless operating system that I'm working on for fun. Thanks to 01000101 (that's their username) on the [OSDev forum](https://forum.osdev.org/viewtopic.php?t=15250) for the name suggestion.
+A pretty useless (and pointless) operating system, written in Rust. Thanks to 01000101 (that's their username) on the [OSDev forum](https://forum.osdev.org/viewtopic.php?t=15250) for the name suggestion.
+
+Features (ranked by importance, most to least important):
+
+- [ ] Doom!
+- [ ] Shell
+- [ ] Proper filesystem
+- [ ] VGA/GOP graphics
+- [ ] Scheduler
+- [ ] Multiprocessing
+- [ ] 64-bit support
