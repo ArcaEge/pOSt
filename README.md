@@ -1,6 +1,6 @@
 # pOSt (pointless Operating System title)
 
-A pretty useless (and pointless) operating system, written in Rust. Thanks to 01000101 (that's their username) on the [OSDev forum](https://forum.osdev.org/viewtopic.php?t=15250) for the name suggestion.
+A pretty useless (and pointless) operating system, written in Rust. Thanks to 01000101 (that's their username) on the [OSDev forum](https://forum.osdev.org/viewtopic.php?t=15250) for the name suggestion. The core parts of the code are heavily based on Philipp Oppermann's [Writing an OS in Rust](https://os.phil-opp.com/) series.
 
 Features (ranked by importance, most to least important):
 
@@ -10,4 +10,3 @@ Features (ranked by importance, most to least important):
 - [ ] VGA/GOP graphics
 - [ ] Scheduler
 - [ ] Multiprocessing
-- [ ] 64-bit support
